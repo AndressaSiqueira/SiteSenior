@@ -52,6 +52,6 @@ steps:
       docker build -t site:latest .
  
 outputArtifacts:
-  - name: siteapp
+  - name: site
     type: DOCKER_IMAGE
     location: site:latest
