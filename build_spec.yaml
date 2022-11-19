@@ -54,4 +54,4 @@ steps:
 outputArtifacts:
   - name: site
     type: DOCKER_IMAGE
-    location: site:latest 
+    location: site:latest
